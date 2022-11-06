@@ -1,0 +1,5 @@
+Bread,Coke,eggs,Diaper,beer,milk,cake      
+Bread,Diaper,beer,eggs,cake  
+milk,Diaper,beer,Coke
+Bread,milk,Diaper,beer,cake
+Bread,milk,Diaper,Coke
